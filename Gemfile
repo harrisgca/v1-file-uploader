@@ -6,6 +6,7 @@ gem 'rails', '4.2.1'
 gem 'pry-rails'
 gem 'better_errors'
 gem 'binding_of_caller'
+gem "paperclip", "~> 4.3"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
